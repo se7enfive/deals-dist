@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d6ef4"],{7555:function(n,t,o){"use strict";o.r(t),o.d(t,"useLoginApi",(function(){return e}));var u=o("b775");function e(){return{signIn:n=>Object(u["default"])({url:"/token/login",method:"post",params:n}),signOut:()=>Object(u["default"])({url:"/sys/logout",method:"GET"})}}}}]);
